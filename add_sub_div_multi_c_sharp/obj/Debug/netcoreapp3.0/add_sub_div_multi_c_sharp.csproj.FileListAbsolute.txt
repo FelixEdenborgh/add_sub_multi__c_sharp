@@ -1,0 +1,11 @@
+C:\Users\Felix\Documents\C# Prodjects\add_sub_div_multi_c_sharp\bin\Debug\netcoreapp3.0\add_sub_div_multi_c_sharp.exe
+C:\Users\Felix\Documents\C# Prodjects\add_sub_div_multi_c_sharp\bin\Debug\netcoreapp3.0\add_sub_div_multi_c_sharp.deps.json
+C:\Users\Felix\Documents\C# Prodjects\add_sub_div_multi_c_sharp\bin\Debug\netcoreapp3.0\add_sub_div_multi_c_sharp.runtimeconfig.json
+C:\Users\Felix\Documents\C# Prodjects\add_sub_div_multi_c_sharp\bin\Debug\netcoreapp3.0\add_sub_div_multi_c_sharp.runtimeconfig.dev.json
+C:\Users\Felix\Documents\C# Prodjects\add_sub_div_multi_c_sharp\bin\Debug\netcoreapp3.0\add_sub_div_multi_c_sharp.dll
+C:\Users\Felix\Documents\C# Prodjects\add_sub_div_multi_c_sharp\bin\Debug\netcoreapp3.0\add_sub_div_multi_c_sharp.pdb
+C:\Users\Felix\Documents\C# Prodjects\add_sub_div_multi_c_sharp\obj\Debug\netcoreapp3.0\add_sub_div_multi_c_sharp.csprojAssemblyReference.cache
+C:\Users\Felix\Documents\C# Prodjects\add_sub_div_multi_c_sharp\obj\Debug\netcoreapp3.0\add_sub_div_multi_c_sharp.AssemblyInfoInputs.cache
+C:\Users\Felix\Documents\C# Prodjects\add_sub_div_multi_c_sharp\obj\Debug\netcoreapp3.0\add_sub_div_multi_c_sharp.AssemblyInfo.cs
+C:\Users\Felix\Documents\C# Prodjects\add_sub_div_multi_c_sharp\obj\Debug\netcoreapp3.0\add_sub_div_multi_c_sharp.dll
+C:\Users\Felix\Documents\C# Prodjects\add_sub_div_multi_c_sharp\obj\Debug\netcoreapp3.0\add_sub_div_multi_c_sharp.pdb
